@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude plugin install superpowers@claude-plugins-official)",
+      "Bash(npm install -g superpowers@claude-plugins-official)",
+      "Read(//Users/andreia/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
